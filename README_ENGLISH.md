@@ -5,6 +5,10 @@
 V 1.0
 Last updated 27.10.2022
 
+Screenshots: https://imgur.com/a/AulYupd
+
+Works only on game version **3.0 EUR**!
+
 My first experience in creation gateway codes, all of these tested in Citra Nightly build 1797 and Citra android.
 These codes should work on Nintendo 3Ds.
 Gateway codes are created via Cheat Engine Debugger (find out what writes to this address) and built in Android version Memory viewer by weihuoya
