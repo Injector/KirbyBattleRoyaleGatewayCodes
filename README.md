@@ -5,6 +5,10 @@
 V 1.0
 Последнее обновление 27.10.2022
 
+Скрины https://imgur.com/a/AulYupd
+
+Работает только на версии игры **3.0 EUR**!
+
 Мой первый опыт в создании Gateway кодов, все они протестированы в Citra Nightly билд 1797 и Citra на андроиде.
 Эти коды должны работать и на Nintendo 3Ds.
 Gateway коды созданы с помощью Cheat Engine Debugger (find out what writes to this address) и встроенный в андроид версии Memory Viewer от weihuoya.
